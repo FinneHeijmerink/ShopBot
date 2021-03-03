@@ -110,4 +110,4 @@ async def openShop3(ctx):
 
 
 #the bot token
-client.run('ODA4NjAyOTY1NTgwNzA5OTAw.YCI8Mg.Tn2XL63tJX41dX1d-GdNPcb-u94')
+client.run()
